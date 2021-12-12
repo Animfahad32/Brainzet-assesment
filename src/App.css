@@ -7,6 +7,327 @@
   pointer-events: none;
 }
 
+.menu-links {
+  font-family: "DM Sans", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 26px;
+}
+.menu-links:hover {
+  background-color: #ffffff;
+  color: #482be7;
+  border-radius: 100px;
+}
+.sign-up-nav-btn {
+  background: #ffffff;
+  border-radius: 100px;
+  color: #482be7;
+}
+
+.hero-head {
+  font-family: "DM Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 84px;
+  line-height: 85px;
+  color: #ffffff;
+}
+.hero-p {
+  font-family: "Gill Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 28px;
+  color: #ffffff;
+}
+.hero-btns {
+  margin-top: 83px;
+  padding-bottom: 172px;
+}
+.hero-btn {
+  font-weight: 600;
+  font-family: "Gill Sans", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  padding: 10px;
+  border: 1px solid #ebeaed;
+  border-radius: 100px;
+  color: white;
+}
+.hero-btn:hover {
+  background-color: #ffffff;
+  color: #482be7;
+  transition: all 0.5s;
+}
+.hero-btn-started {
+  font-weight: 600;
+  font-family: "Gill Sans", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  padding: 10px;
+  border: 1px solid #ebeaed;
+  border-radius: 100px;
+  background-color: #ffffff;
+  color: #482be7;
+}
+.hero-btn-started:hover {
+  color: white;
+  background-color: transparent;
+  transition: all 0.5s;
+}
+.icons {
+  text-align: center;
+}
+.icons i {
+  margin-top: 80px;
+  margin-right: 66px;
+  font-size: 32px;
+  color: #1e0e62;
+}
+
+.icons i:nth-child(2) {
+  color: #e93a7d;
+}
+.intro {
+  text-align: center;
+}
+.intro-heading {
+  font-weight: bold;
+  font-size: 50px;
+  margin-top: 29px;
+  color: #1e0e62;
+}
+.intro-para {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  color: #8c8c8c;
+}
+.category-title {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 42px;
+  line-height: 52px;
+  color: #1e0e62;
+  margin-top: 42px;
+}
+.categories-list {
+  margin-top: 23px;
+}
+.category-card {
+  border-radius: 16px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  padding: 55px;
+  margin-top: 10px;
+}
+.category-card-1 {
+  background: linear-gradient(
+      0deg,
+      rgba(47, 24, 147, 0.56),
+      rgba(47, 24, 147, 0.56)
+    ),
+    url("./images/Background.png"), #482be7;
+  background-size: cover;
+}
+.category-card-2 {
+  background: linear-gradient(
+      0deg,
+      rgba(47, 24, 147, 0.56),
+      rgba(47, 24, 147, 0.56)
+    ),
+    url("./images/Background (1).png"), #482be7;
+  background-size: cover;
+}
+.category-card-3 {
+  background: linear-gradient(
+      0deg,
+      rgba(47, 24, 147, 0.56),
+      rgba(47, 24, 147, 0.56)
+    ),
+    url("./images/Background (2).png"), #482be7;
+  background-size: cover;
+}
+.category-card-4 {
+  background: linear-gradient(
+      0deg,
+      rgba(47, 24, 147, 0.56),
+      rgba(47, 24, 147, 0.56)
+    ),
+    url("./images/Background (3).png"), #482be7;
+  background-size: cover;
+}
+.category-card i {
+  font-size: 32px;
+  color: #ffffff;
+}
+
+.cta-img {
+  background: #1e0e62;
+  border-radius: 20px;
+  padding: 28px;
+}
+.cta-info {
+  margin-left: 27px;
+}
+.cta-info h2 {
+  font-family: "DM Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 42px;
+  line-height: 52px;
+  color: #1e0e62;
+}
+.cta-info p {
+  font-family: "DM Sans", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 32px;
+  color: rgba(21, 20, 57, 0.4);
+}
+.cta-btn {
+  font-weight: 600;
+  font-family: "DM Sans", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  padding: 10px;
+  border: 1px solid #ebeaed;
+  border-radius: 100px;
+  color: #482be7;
+}
+.posts {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 41px;
+  line-height: 52px;
+  color: #1e0e62;
+  margin: 100px;
+}
+.card-bg {
+  background-image: url(./images/Rectangle\ 5.png);
+  background-size: cover;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px,
+    rgba(0, 0, 0, 0.22) 0px 10px 10px !important;
+}
+.card-title {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 46px;
+  line-height: 50px;
+  color: #ffffff;
+}
+.card-para {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 25px;
+  font-family: "DM Sans", sans-serif;
+  color: #ffffff;
+}
+.action-btn {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 28px;
+
+  color: #ffffff;
+}
+.cta-bg {
+  text-align: center;
+  background-image: url("./images/cta-bg.png");
+  background-size: cover;
+  border-radius: 7px;
+}
+.cta-contents {
+  padding-top: 82px;
+  padding-bottom: 82px;
+}
+.cta-contents h2 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 100%;
+  display: flex;
+  align-items: center;
+  color: #f0f0f0;
+  justify-content: center;
+}
+.cta-contents input {
+  width: 39%;
+  height: 42px;
+  margin-top: 31px;
+  padding: 10px;
+  background: #f7f7f7;
+  box-shadow: 3px 23px 50px rgba(0, 0, 0, 0.27),
+    6px 8px 20px rgba(30, 14, 98, 0.35);
+  border-radius: 7px 0px 0px 7px;
+}
+input:focus {
+  outline: none !important;
+}
+.cta-contents button {
+  background: #4a20ff;
+  border-radius: 0px 7px 7px 0px;
+  width: 14%;
+  height: 42px;
+  color: white;
+}
+@media only screen and (max-width: 600px) {
+  .hero-head {
+    font-size: 40px;
+    line-height: 39px;
+    margin-left: 5px;
+  }
+  .hero-p {
+    margin-left: 5px;
+    font-size: 20px;
+    line-height: 23px;
+  }
+  .hero-btns {
+    margin-top: 14px;
+    padding-bottom: 16px;
+  }
+  .intro-heading {
+    font-size: 40px;
+    margin-top: 29px;
+  }
+  .category-card {
+    width: 100%;
+    height: 100%;
+  }
+  .cta-img {
+    background: #1e0e62;
+    border-radius: 20px;
+    height: 30%;
+    padding: 10px;
+    width: 50%;
+    margin: 0 auto;
+  }
+  .cta-img img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .cta-info {
+    margin-left: 0;
+    text-align: center;
+  }
+  .dis-mob {
+    display: inline-block !important;
+  }
+  .cta-contents h2 {
+    font-size: 26px;
+  }
+  .cta-contents input {
+    width: 70%;
+  }
+  .cta-contents button {
+    width: 20%;
+  }
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
