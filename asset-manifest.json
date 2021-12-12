@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Animfahad32/Brainzet-assesment/static/css/main.36fc00f0.css",
-    "main.js": "/Animfahad32/Brainzet-assesment/static/js/main.87646b48.js",
-    "static/js/787.bb33fe28.chunk.js": "/Animfahad32/Brainzet-assesment/static/js/787.bb33fe28.chunk.js",
-    "static/media/hero.jpg": "/Animfahad32/Brainzet-assesment/static/media/hero.ca28280edd8c34f5a975.jpg",
-    "static/media/Rectangle 5.png": "/Animfahad32/Brainzet-assesment/static/media/Rectangle 5.0bce42751fda21e615cf.png",
-    "static/media/cta-bg.png": "/Animfahad32/Brainzet-assesment/static/media/cta-bg.34fb34374818e4fdff03.png",
-    "static/media/Background (3).png": "/Animfahad32/Brainzet-assesment/static/media/Background (3).6e66aa3a6db4f09e71f7.png",
-    "static/media/Background (1).png": "/Animfahad32/Brainzet-assesment/static/media/Background (1).583347bfcc6f3db6d535.png",
-    "static/media/Background (2).png": "/Animfahad32/Brainzet-assesment/static/media/Background (2).6bdca6da6721050ff182.png",
-    "static/media/Background.png": "/Animfahad32/Brainzet-assesment/static/media/Background.7e03c06349170a2ef9cd.png",
-    "index.html": "/Animfahad32/Brainzet-assesment/index.html",
-    "main.36fc00f0.css.map": "/Animfahad32/Brainzet-assesment/static/css/main.36fc00f0.css.map",
-    "main.87646b48.js.map": "/Animfahad32/Brainzet-assesment/static/js/main.87646b48.js.map",
-    "787.bb33fe28.chunk.js.map": "/Animfahad32/Brainzet-assesment/static/js/787.bb33fe28.chunk.js.map"
+    "main.css": "/Brainzet-assesment/static/css/main.11569e74.css",
+    "main.js": "/Brainzet-assesment/static/js/main.2c60ee01.js",
+    "static/js/787.bb33fe28.chunk.js": "/Brainzet-assesment/static/js/787.bb33fe28.chunk.js",
+    "static/media/hero.jpg": "/Brainzet-assesment/static/media/hero.ca28280edd8c34f5a975.jpg",
+    "static/media/Rectangle 5.png": "/Brainzet-assesment/static/media/Rectangle 5.0bce42751fda21e615cf.png",
+    "static/media/cta-bg.png": "/Brainzet-assesment/static/media/cta-bg.34fb34374818e4fdff03.png",
+    "static/media/Background (3).png": "/Brainzet-assesment/static/media/Background (3).6e66aa3a6db4f09e71f7.png",
+    "static/media/Background (1).png": "/Brainzet-assesment/static/media/Background (1).583347bfcc6f3db6d535.png",
+    "static/media/Background (2).png": "/Brainzet-assesment/static/media/Background (2).6bdca6da6721050ff182.png",
+    "static/media/Background.png": "/Brainzet-assesment/static/media/Background.7e03c06349170a2ef9cd.png",
+    "index.html": "/Brainzet-assesment/index.html",
+    "main.11569e74.css.map": "/Brainzet-assesment/static/css/main.11569e74.css.map",
+    "main.2c60ee01.js.map": "/Brainzet-assesment/static/js/main.2c60ee01.js.map",
+    "787.bb33fe28.chunk.js.map": "/Brainzet-assesment/static/js/787.bb33fe28.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36fc00f0.css",
-    "static/js/main.87646b48.js"
+    "static/css/main.11569e74.css",
+    "static/js/main.2c60ee01.js"
   ]
 }
